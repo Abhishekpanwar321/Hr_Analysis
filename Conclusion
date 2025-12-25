@@ -1,0 +1,66 @@
+KPIs & Conclusions Section
+📊 Key Performance Indicators (KPIs)
+
+Employee Status Ratio
+70.1% of Active employees
+19.9% of Resigned,5.0% Retired, and 5.0% Terminated employees
+
+Work Mode Distribution
+
+Percentage of Remote vs On-site employees
+On-Site 60.0% and Remote Employees 40.%
+Department Headcount
+
+Total employees per department
+Department
+IT            601042
+Sales         400031
+Operations    300095
+Marketing     240081
+Finance       199873
+HR            159119
+R&D            99759
+
+Departments contributing the highest share of employees
+Job_Title
+Software Engineer                300358
+Sales Executive                  199982
+Operations Executive             150058
+Data Analyst                     120375
+Marketing Executive              120154
+Account Manager                  119929
+Attrition Indicator
+
+
+average salary by Department
+Department
+Finance        940.411743
+HR             743.853561
+IT            1129.858151
+Marketing      769.936152
+Operations     754.626253
+R&D            800.377157
+Sales          792.957860
+🧠 Conclusions
+
+The majority of employees are actively employed, indicating a relatively stable workforce.
+
+Certain departments dominate the organization’s headcount,like IT            601042
+Sales         400031,
+highlighting key operational teams.
+
+On-site work adoption is significant, reflecting modern workforce flexibility.
+
+A smaller but notable portion of employees fall under resigned or terminated categories, signaling potential areas for attrition analysis.
+
+HR data analytics can provide strong support for strategic workforce planning and retention policies.
+Departments contributing the highest share of employees
+Software Engineer                300358
+Sales Executive                  199982
+📌 Recommendations
+
+Conduct deeper attrition analysis to identify reasons behind employee exits.
+
+Monitor department-level workforce trends to optimize hiring and resource allocation.
+
+Use predictive analytics to forecast attrition risks.
