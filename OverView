@@ -1,0 +1,95 @@
+📊 HR Analytics Project – Employee Insights & Workforce Analysis
+📌 Project Overview
+
+This project focuses on HR Analytics for a multinational company (MNC) using Python. The goal is to analyze employee data to uncover insights related to employee status, work modes, department distribution, attrition, and workforce trends. The analysis helps HR teams and management make data-driven decisions regarding employee retention, workforce planning, and organizational performance.
+
+The project is implemented in a Jupyter Notebook and follows a structured, question-driven analytical approach.
+
+🎯 Objectives
+
+Analyze employee status distribution (Active, Resigned, Retired, Terminated)
+
+Understand workforce work modes (On-site vs Remote)
+
+Identify department-wise employee distribution
+
+Perform data cleaning and preprocessing
+
+Answer real-world HR business questions using data
+
+Present insights in a clear and analytical manner
+
+🗂 Dataset Description
+
+The dataset contains employee-level HR information, including:
+
+Employee status
+
+Work mode
+
+Department
+
+Employment details
+
+Organizational attributes
+
+🔍 Key Analysis Performed
+
+The notebook answers multiple HR-focused analytical questions, including:
+
+Employee Status Distribution
+
+Active
+
+Resigned
+
+Retired
+
+Terminated
+
+Work Mode Analysis
+
+On-site vs Remote workforce comparison
+
+Department-wise Employee Count
+
+Identifying departments with the highest and lowest headcount
+
+Data Cleaning & Preprocessing
+
+Dropping irrelevant columns
+
+Changing data types
+
+Handling data inconsistencies
+
+Exploratory Data Analysis (EDA)
+
+Distribution analysis
+
+Workforce structure insights
+
+📈 Insights & Outcomes
+
+Clear visibility into workforce composition
+
+Identification of dominant departments and work modes
+
+Better understanding of employee lifecycle status
+
+Actionable insights to support HR decision-making
+
+💼 Business Value
+
+Helps HR teams track attrition and retention trends
+
+Supports workforce planning and policy decisions
+
+Enables management to understand organizational structure
+
+Improves data-driven HR strategy
+
+👤 Author
+
+Abhishek Panwar
+Data Analyst | Python | SQL | Data Visualization | HR Analytics
